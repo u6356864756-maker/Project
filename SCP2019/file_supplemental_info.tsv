@@ -1,0 +1,10 @@
+filename	file_type	species_scientific_name	genome_assembly_name	genome_assembly_accession	genome_annotation_name	is_raw_counts	library_preparation_protocol	units	biosample_input_type	modality
+Carotid_Expression_Matrix_raw_counts_V1.mtx	MM Coordinate Matrix	Homo sapiens	GRCh38	GCA_000001405.15	Ensembl 94	true	10x 3' v3	raw counts	Single nuclei	Transcriptomic: unbiased
+Carotid_Expression_Matrix_barcodes_norm_V1.tsv	10X Barcodes File									
+Carotid_Expression_Matrix_genes_norm_V1.tsv	10X Genes File									
+Carotid_Expression_Matrix_norm_V1.mtx	MM Coordinate Matrix	Mus musculus	GRCm38	GCA_000001635.2	Ensembl 94		10x 3' v3		Single nuclei	Transcriptomic: unbiased
+Carotid_UMAP_V1.txt	Cluster									
+Carotid_MetaData_V1.txt	Metadata									
+Carotid_scportal_v1.h5ad	AnnData									
+Carotid_Expression_Matrix_genes_V1.tsv	10X Genes File									
+Carotid_Expression_Matrix_barcodes_V1.tsv	10X Barcodes File									
